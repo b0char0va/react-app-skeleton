@@ -1,1 +1,1 @@
-# react-app-skeleton
+# React App Skeleton
